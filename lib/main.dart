@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Brasileirão',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-          primarySwatch: Colors.blue,
+          primarySwatch: Colors.deepPurple,
           visualDensity: VisualDensity.adaptivePlatformDensity),
       home: HomePage(),
     );
